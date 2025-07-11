@@ -10,7 +10,7 @@ Como resultado central del proyecto, se presenta un diseño conceptual que integ
 * **Enlace de documento**: https://docs.google.com/document/d/1iEX65-gioHmIWz9wbRejZ3IHYkEKFqGkj2pcnTv-1I8/edit?usp=sharing
 * **Trello**: https://trello.com/b/fjsXABNu/unah-inclusiva-virtual
 
-## Integrantes:
+## Integrantes
 * Ana Lanza allanza@unah.hn
 * Edwin Galeas engaleas@unah.hn
 * Erick Cano erick.cano@unah.hn
