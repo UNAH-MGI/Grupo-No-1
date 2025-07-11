@@ -16,3 +16,8 @@ Como resultado central del proyecto, se presenta un diseño conceptual que integ
 * Erick Cano erick.cano@unah.hn
 * Miguel Gómez miguel.almendarez@unah.hn
 
+## Enlace Moodle
+https://unah-inclusiva.moodlecloud.com/
+* Usuario: estudiante
+* Contraseña: Estudiante.mgi10
+
