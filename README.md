@@ -1,5 +1,5 @@
 # Diseño de un entorno virtual accesible para la UNAH basado en el Diseño Universal de Aprendizaje e inteligencia artificial
-La presente propuesta se fundamenta en cuatro pilares conceptuales principales: el Diseño Universal para el Aprendizaje (DUA), la inteligencia artificial (IA), el E-Learning y la inclusión educativa, abordados desde un enfoque de accesibilidad y personalización del aprendizaje en entornos virtuales.
+Como resultado central del proyecto, se presenta un diseño conceptual que integra los pilares analizados: el Diseño Universal para el Aprendizaje (DUA), la inteligencia artificial (IA), las tecnologías asistivas y los principios de accesibilidad digital. Esta arquitectura busca garantizar un aprendizaje equitativo, autónomo y adaptado a la diversidad de los estudiantes.
 
 ![Mapa conceptual](https://github.com/user-attachments/assets/493c38b1-7251-48fb-8645-fa153939ed59)
 
