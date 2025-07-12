@@ -1,0 +1,19 @@
+<div
+  style="max-width: 500px; margin: auto; padding: 1rem; border: 2px solid #ccc; border-radius: 12px; background-color: #f9f9f9; font-family: Arial, sans-serif;">
+  <h2 style="text-align: center; color: #004080;">Asistente Virtual UNAH
+    Inclusiva</h2>
+  <p style="font-size: 16px;">Este chatbot está diseñado para apoyarte en tu
+    proceso educativo con base en el Diseño Universal para el Aprendizaje (DUA),
+    tecnologías asistivas e inteligencia artificial. Puedes hacerle preguntas
+    sobre accesibilidad, herramientas inclusivas en Moodle o recibir orientación
+    académica.</p>
+  <p style="text-align: center; margin-top: 1rem;"><a
+      style="display: inline-block; padding: 0.75rem 1.5rem; background-color: #004080; color: white; text-decoration: none; border-radius: 8px; font-size: 16px;"
+      href="https://chatgpt.com/g/g-6871801e787081919504c6eaafeb1ed0-mgi-501"
+      target="_blank" rel="noopener"
+      aria-label="Ir al asistente virtual inclusivo"> Acceder al Chatbot
+      Inclusivo </a></p>
+  <p style="margin-top: 1rem; font-size: 14px; color: #666;">Recomendado para
+    estudiantes con necesidades educativas diversas, docentes y personal
+    académico.</p>
+</div>
